@@ -1,6 +1,10 @@
+# insert the docx or pdf you want to convert into this folder
+
 from docx2pdf import convert
 
-convert("new.docx")
+convert("yourDocxName.docx")
+
+#if you want to convert from pdf to docx use the code under this comment
 
 # from pdf2docx import Converter
 
